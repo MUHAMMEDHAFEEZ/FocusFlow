@@ -43,7 +43,3 @@ Feel free to customize and enhance the code according to your preferences!
 ## License
 
 This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute it for personal or commercial purposes.
-
----
-
-Make sure to replace the `<license link>` placeholder in the license section with the actual link to your license file if you have one. Additionally, update any other placeholders or details as needed.
