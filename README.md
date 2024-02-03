@@ -2,6 +2,7 @@
 # FocusFlow
 
 FocusFlow is a Python-based Pomodoro Timer featuring a sleek Tkinter GUI. Elevate your productivity with customizable work and break intervals, sound alerts, and a movable window. Easy to use yet powerful for efficient time management.
+
 ![image](https://github.com/MUHAMMEDHAFEEZ/FocusFlow/assets/125500179/492ae120-7aad-4025-a5ce-a00319d56cd6) 
 ![image](https://github.com/MUHAMMEDHAFEEZ/FocusFlow/assets/125500179/263f7d44-3162-4b7d-ab21-54b5dc78d354)
 
