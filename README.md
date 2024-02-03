@@ -42,4 +42,4 @@ Feel free to customize and enhance the code according to your preferences!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). Feel free to use, modify, and distribute it for personal or commercial purposes.
+This project is licensed under the [MIT License]([LICENSE.md](https://github.com/MUHAMMEDHAFEEZ/FocusFlow/blob/main/LICENSE)). Feel free to use, modify, and distribute it for personal or commercial purposes.
